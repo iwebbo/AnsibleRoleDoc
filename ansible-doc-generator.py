@@ -1,3 +1,23 @@
+"""
+Copyright (c) 2025 [A&E Coding - AnsibleRoleDoc]
+
+Permission est accordée, gratuitement, à toute personne obtenant une copie
+ de ce logiciel et des fichiers de documentation associés (le "Release_2025.1.0.py"),
+ de traiter le Logiciel sans restriction, y compris, sans s'y limiter, les droits
+ d'utiliser, de copier, de modifier, de fusionner, de publier, de distribuer, de sous-licencier,
+ et/ou de vendre des copies du Logiciel, et de permettre aux personnes à qui
+ le Logiciel est fourni de le faire, sous réserve des conditions suivantes :
+
+Le texte ci-dessus et cette autorisation doivent être inclus dans toutes les copies
+ ou portions substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE,
+Y COMPRIS MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION
+À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS LES AUTEURS OU TITULAIRES
+DU COPYRIGHT NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ,
+QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DE,
+OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES INTERACTIONS AVEC LE LOGICIEL.
+"""
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
