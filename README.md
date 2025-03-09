@@ -1,4 +1,4 @@
-![ansible-doc-generator-diagram](https://github.com/user-attachments/assets/91ce4354-12a8-4b4c-ac04-aa737cda8f6b)# AnsibleRoleDoc
+## AnsibleRoleDoc
  Creation of documentation Roles Ansible
 
 ## 📌 Technologies 
