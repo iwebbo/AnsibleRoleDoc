@@ -12,9 +12,11 @@ python >=3.8, ansible-roles
 ### 🛠 Run IT:
 
 ```
+python3 ansible-role-generator.py /path/to/role -f markdown -o documentation.md
+
+
 -o = To create a documentation on Markdown format, if -o not set, the documentation will be prompted.
 -f = markdown / text
-python3 ansible-role-generator.py /path/to/role -f markdown -o documentation.md
 
 ```
 
